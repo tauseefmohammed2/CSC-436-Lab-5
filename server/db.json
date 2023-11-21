@@ -1,0 +1,47 @@
+{
+  "todos": [
+    {
+      "title": "Grocery Shopping",
+      "description": "Buy eggs, bread, and milk from Walmart.",
+      "author": "tmohamm4@depaul.edu",
+      "dateCreated": "2023-11-07T21:57:06.138Z",
+      "complete": false,
+      "dateCompleted": null,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Workout",
+      "description": "Go to the gym for an hour.",
+      "author": "tmohamm4@depaul.edu",
+      "dateCreated": "2023-11-07T21:57:43.635Z",
+      "complete": false,
+      "dateCompleted": null
+    },
+    {
+      "title": "Homework Assignment",
+      "description": "The Web Applications homework assignment is due today evening.",
+      "author": "tmohamm4@depaul.edu",
+      "dateCreated": "2023-11-07T22:19:28.454Z",
+      "complete": false,
+      "dateCompleted": null,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Doctors Appointment",
+      "description": "Call the dentist and schedule an appointment.",
+      "author": "tmohamm4@depaul.edu",
+      "dateCreated": "2023-11-07T22:21:23.445Z",
+      "complete": false,
+      "dateCompleted": null
+    }
+  ],
+  "users": [
+    {
+      "email": "tmohamm4@depaul.edu",
+      "password": "$2a$10$g88KBQ6tvBnWT73ZcPcNxObfxgMzJknfHLwSYPD1mY.TMgBcHo8lG",
+      "id": 1
+    }
+  ]
+}
